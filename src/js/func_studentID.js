@@ -1,4 +1,3 @@
-"use strict"
 function id() {
   let id = 0;
   return function () {
